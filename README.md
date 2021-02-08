@@ -1,2 +1,2 @@
-# simple-counter
-Simple Counter
+# pizza menu
+Example Pizza Menu
